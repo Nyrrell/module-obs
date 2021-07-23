@@ -26,7 +26,7 @@ debug@^4.1.0:
 
 "evntboard-communicate@https://github.com/EvntBoard/communicate.git":
   version "1.0.0"
-  resolved "https://github.com/EvntBoard/communicate.git#eefe6a5497216e9c331b43e0dd88b046d4938e28"
+  resolved "https://github.com/EvntBoard/communicate.git#f3d2996c0ca63dcf22f5971224ad47aa83661294"
 
 inherits@^2.0.1:
   version "2.0.4"
